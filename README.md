@@ -1,13 +1,12 @@
 # ResidenciaOnboard-Amenic
 
-Membros do grupo:
+<h2>Membros do grupo</h2>
+Alyson Henrique <br>
+Débora Ramos <br>
+Evellyn Karla <br>
+Hugo Vasconcelos <br>
+Júlia Menezes<br>
 
-Alyson Henrique
-Débora Ramos
-Evellyn Karla 
-Hugo Vasconcelos 
-Júlia Menezes
 
-
-Sobre:
+<h2>Sobre:</h2>
 Aplicativo de catalogo de filmes.
