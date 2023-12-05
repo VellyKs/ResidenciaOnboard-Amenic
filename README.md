@@ -15,5 +15,5 @@
 
 - Imagem
 
-![Imagem do protótipo figma](assets/frame86.png)
+![Imagem do protótipo figma](assets/images/Frame86.png)
 
