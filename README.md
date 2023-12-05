@@ -1,7 +1,19 @@
 # Amenic
+## Residência Onboard - Rise Up
 
-A new Flutter project.
+  Projeto de catalogo de filmes criado em Flutter. 
 
-## Getting Started
+## Integrantes
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+- Alyson Henrique
+- Débora Ramos
+- Evellyn Karla
+- Hugo Vasconcelos
+- Júlia Menezes
+
+## Protótipo no Figma
+
+- Imagem
+
+![Imagem do protótipo figma](assets/frame86.png)
+
