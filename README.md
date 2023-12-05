@@ -1,12 +1,7 @@
-# ResidenciaOnboard-Amenic
+# Amenic
 
-<h2>Membros do grupo</h2>
-Alyson Henrique <br>
-Débora Ramos <br>
-Evellyn Karla <br>
-Hugo Vasconcelos <br>
-Júlia Menezes<br>
+A new Flutter project.
 
+## Getting Started
 
-<h2>Sobre:</h2>
-Aplicativo de catalogo de filmes.
+FlutterFlow projects are built to run on the Flutter _stable_ release.
